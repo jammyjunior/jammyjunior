@@ -19,7 +19,7 @@
 
    Check out my website
 
-🌐 [khangtnmwinpe.pages.dev](https://khangtnmwinpe.pages.dev){:target="_blank"}
+🌐 [khangtnmwinpe.pages.dev](https://khangtnmwinpe.pages.dev)
 
 ## Contributing ✨
 
