@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🎓 I am a junior who's on the way learn to make cool stuffs from scratch.<br><br>🗿 I use Debian btw.
+🎓 I am a junior who's on the way to learn how to make cool stuff from scratch.<br><br>🗿 I use Debian btw.
 
 
 
