@@ -25,6 +25,6 @@
 
 Pull requests are welcome! 
 
-My project may not perfect. If you intersted in my project, make a pull request to help me.
+My projects may not perfect. If you intersted in my projects, make a pull request to help me.
 
 I appreciate your helps. ❤️
