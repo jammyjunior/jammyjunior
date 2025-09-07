@@ -1,4 +1,4 @@
-# Hi there 👋, I'm JammyJunior
+# Hi there 👋, I'm Jammy Junior
 
 ## Who am I?
 
