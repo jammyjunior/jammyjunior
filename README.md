@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm JammyJunior
+
+## Who am I?
+
+I am a junior who's on the way learn to make cool stuffs from scratch.
+
+
+
+
 
 <!--
 **jammyjunior/jammyjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
