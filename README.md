@@ -23,8 +23,8 @@
 
 ## Contributing ✨
 
-Pull requests are welcome! 
+Pull requests are welcome!
 
-My projects may not perfect. If you intersted in my projects, make a pull request to help me.
+This project isn't perfect, and I'm always looking for ways to improve it. If you're interested in helping, feel free to submit a pull request.
 
-I appreciate your helps. ❤️
+Thanks for your help! ❤️
