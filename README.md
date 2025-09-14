@@ -25,6 +25,6 @@
 
 Pull requests are welcome!
 
-This project isn't perfect, and I'm always looking for ways to improve it. If you're interested in helping, feel free to submit a pull request.
+These projects are not perfect, and I'm always looking for ways to improve it. If you're interested in helping, feel free to submit a pull request.
 
 Thanks for your help! ❤️
